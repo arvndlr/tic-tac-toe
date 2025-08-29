@@ -88,3 +88,9 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.winning-square {
+  background: #0d3810;
+  color: #fff;
+  font-weight: bold;
+}
